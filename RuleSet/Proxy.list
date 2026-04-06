@@ -252,7 +252,7 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,.blogspot.
+DOMAIN-KEYWORD,blogspot
 # > Apple
 DOMAIN,testflight.apple.com
 # > Automattic
@@ -316,7 +316,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,.facebook.
+DOMAIN-KEYWORD,facebook
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,github.blog
@@ -333,7 +333,7 @@ DOMAIN,az668014.vo.msecnd.net
 DOMAIN,github.global.ssl.fastly.net
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com
-DOMAIN-KEYWORD,.pinterest.
+DOMAIN-KEYWORD,pinterest
 # > pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
@@ -420,14 +420,14 @@ DOMAIN,wego.here.com
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,facetime.apple.com // FaceTime Links
-DOMAIN,lookup-api.apple.com // Look Up
-DOMAIN,radio.itunes.apple.com // Apple Music Radio
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,facetime.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,radio.itunes.apple.com
 # > Mi
 DOMAIN,c.mi.com
 DOMAIN,new.c.mi.com
