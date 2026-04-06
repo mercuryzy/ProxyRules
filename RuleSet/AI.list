@@ -1,0 +1,211 @@
+# AI Services Rules
+
+# ======== OpenAI / ChatGPT ========
+
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,chatgpt-async-webps-prod-southcentralus-6.webpubsub.azure.com
+
+# > OpenAI Dependencies
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,stripe.com
+
+# ======== Anthropic / Claude ========
+
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# ======== Google AI ========
+
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# ======== Microsoft Copilot ========
+
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.cloud.microsoft.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+
+# ======== GitHub Copilot ========
+
+DOMAIN-SUFFIX,copilot.github.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+
+# ======== xAI / Grok ========
+
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,xai.com
+
+# ======== Meta AI ========
+
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,llama.meta.com
+
+# ======== Mistral AI ========
+
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,chat.mistral.ai
+
+# ======== Perplexity ========
+
+DOMAIN-SUFFIX,perplexity.ai
+
+# ======== Poe ========
+
+DOMAIN-SUFFIX,poe.com
+
+# ======== Image Generation ========
+
+# > Midjourney
+DOMAIN-SUFFIX,midjourney.com
+
+# > Stability AI
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stablediffusionweb.com
+DOMAIN-SUFFIX,dreamstudio.ai
+
+# > DALL-E (covered by OpenAI)
+
+# > Leonardo.ai
+DOMAIN-SUFFIX,leonardo.ai
+
+# > Ideogram
+DOMAIN-SUFFIX,ideogram.ai
+
+# ======== AI Research & Platforms ========
+
+# > Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# > Cohere
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+
+# > Replicate
+DOMAIN-SUFFIX,replicate.com
+
+# > Together AI
+DOMAIN-SUFFIX,together.ai
+
+# > Groq
+DOMAIN-SUFFIX,groq.com
+
+# > Fireworks AI
+DOMAIN-SUFFIX,fireworks.ai
+
+# > DeepSeek
+DOMAIN-SUFFIX,deepseek.com
+
+# > 01.AI / Yi
+DOMAIN-SUFFIX,01.ai
+DOMAIN-SUFFIX,lingyiwanwu.com
+
+# > Moonshot / Kimi
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,kimi.moonshot.cn
+
+# ======== AI Tools & Assistants ========
+
+# > Notion AI
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.com
+
+# > Cursor
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+
+# > Codeium / Windsurf
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.ai
+
+# > v0 (Vercel)
+DOMAIN-SUFFIX,v0.dev
+
+# > Bolt
+DOMAIN-SUFFIX,bolt.new
+
+# > Lovable
+DOMAIN-SUFFIX,lovable.dev
+
+# > Replit AI
+DOMAIN-SUFFIX,replit.com
+
+# > Jasper
+DOMAIN-SUFFIX,jasper.ai
+
+# > Copy.ai
+DOMAIN-SUFFIX,copy.ai
+
+# > Writesonic
+DOMAIN-SUFFIX,writesonic.com
+
+# > Character.AI
+DOMAIN-SUFFIX,character.ai
+
+# > RunwayML (Video)
+DOMAIN-SUFFIX,runwayml.com
+
+# > Suno (Music)
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+
+# > ElevenLabs (Voice)
+DOMAIN-SUFFIX,elevenlabs.io
+
+# > Descript
+DOMAIN-SUFFIX,descript.com
+
+# ======== AI Search ========
+
+# > You.com
+DOMAIN-SUFFIX,you.com
+
+# > Phind
+DOMAIN-SUFFIX,phind.com
+
+# ======== Common Dependencies ========
+
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,cdn.cloudflare.net

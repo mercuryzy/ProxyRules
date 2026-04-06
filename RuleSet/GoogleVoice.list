@@ -1,0 +1,5 @@
+# Google Voice
+DOMAIN-SUFFIX,voice.google.com
+DOMAIN-SUFFIX,telephony.goog
+DOMAIN,voice.telephony.goog
+DOMAIN,mtalk.google.com

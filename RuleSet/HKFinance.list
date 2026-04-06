@@ -1,0 +1,105 @@
+# Hong Kong Finance
+
+# ======== 传统银行 ========
+
+# > 汇丰香港
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
+
+# > 恒生银行
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+
+# > 中银香港
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochkonline.com
+
+# > 东亚银行
+DOMAIN-SUFFIX,hkbea.com
+DOMAIN-SUFFIX,bea.com.hk
+
+# > 渣打香港
+DOMAIN-SUFFIX,sc.com.hk
+
+# > 星展香港
+DOMAIN-SUFFIX,dbs.com.hk
+DOMAIN-SUFFIX,dbs.com
+
+# > 招商永隆
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,winglungbank.com
+
+# > 信银国际
+DOMAIN-SUFFIX,cncbinternational.com
+
+# > 交银香港
+DOMAIN-SUFFIX,bankcomm.com.hk
+DOMAIN-SUFFIX,bocomgroup.com
+
+# > 工银亚洲
+DOMAIN-SUFFIX,icbcasia.com
+
+# > 建行亚洲
+DOMAIN-SUFFIX,asia.ccb.com
+
+# > 大新银行
+DOMAIN-SUFFIX,dahsing.com
+
+# > 富邦银行
+DOMAIN-SUFFIX,fubonbank.com.hk
+
+# > 华侨永亨
+DOMAIN-SUFFIX,ocbc.com.hk
+
+# > 上海商业银行
+DOMAIN-SUFFIX,shacombank.com.hk
+
+# > 创兴银行
+DOMAIN-SUFFIX,chbank.com
+
+# ======== 虚拟银行 ========
+
+# > 众安银行
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com.hk
+DOMAIN-SUFFIX,zaticdn.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zafinsvc.com
+DOMAIN-SUFFIX,zaintl.com
+
+# > Mox Bank
+DOMAIN-SUFFIX,mox.com
+DOMAIN-SUFFIX,moxbank.com
+DOMAIN-SUFFIX,prod-mox.com
+
+# > WeLab Bank 汇立银行
+DOMAIN-SUFFIX,welab.bank
+
+# > Fusion Bank 富融银行
+DOMAIN-SUFFIX,fusionbank.com
+
+# > Ant Bank 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk
+
+# > PAO Bank 平安数字银行
+DOMAIN-SUFFIX,paob.com.hk
+DOMAIN-SUFFIX,pingandb.com
+
+# > Airstar Bank 天星银行
+DOMAIN-SUFFIX,airstarbank.com
+
+# > livi Bank 理慧银行
+DOMAIN-SUFFIX,livibank.com
+
+# ======== 支付工具 ========
+
+# > 八达通
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,octopus-cards.com
+
+# > AlipayHK
+DOMAIN-SUFFIX,alipayhk.com
+DOMAIN-SUFFIX,alipay.hk
+
+# > Tap & Go 拍住赏
+DOMAIN-SUFFIX,tapngo.com.hk
