@@ -449,3 +449,15 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+
+# > DNS Leak Test
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,whoer.net
