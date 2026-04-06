@@ -3733,7 +3733,7 @@ DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,zyh365.com
 DOMAIN-SUFFIX,zzdtec.com
-DOMAIN-WILDCARD,windows-*.net
+DOMAIN-KEYWORD,windows-
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
