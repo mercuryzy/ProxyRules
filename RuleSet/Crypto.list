@@ -106,6 +106,8 @@ DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,gemini.com
@@ -209,6 +211,15 @@ DOMAIN-SUFFIX,walletlink.org
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,infura.io
 
+# > MyEtherWallet
+DOMAIN-SUFFIX,myetherwallet.com
+
+# > imToken
+DOMAIN-SUFFIX,token.im
+
+# > TokenPocket
+DOMAIN-SUFFIX,tokenpocket.pro
+
 # > Trust Wallet
 DOMAIN-SUFFIX,trustwallet.com
 
@@ -295,6 +306,14 @@ DOMAIN-SUFFIX,near.org
 DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tonscan.org
 
+# > TRON
+DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,tronlink.org
+
+# > IPFS / Filecoin
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,filecoin.io
+
 # ======== RPC & Infra ========
 
 DOMAIN-SUFFIX,alchemy.com
@@ -316,6 +335,9 @@ DOMAIN-SUFFIX,rootdata.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btc.com
 DOMAIN-SUFFIX,nansen.ai
+DOMAIN-SUFFIX,glassnode.com
+DOMAIN-SUFFIX,cryptoquant.com
+DOMAIN-SUFFIX,dappradar.com
 
 # ======== NFT ========
 
